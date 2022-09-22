@@ -1,0 +1,166 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "Queen size bed",
+                "type": "Household",
+                "price": 20000,
+                "rating": 3,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-1.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "king panel bed",
+                "type": "Household",
+                "price": 25000,
+                "rating": 5,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-2.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "single size bed",
+                "type": "Household",
+                "price": 9000,
+                "rating": 2,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-3.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "twin panel bed",
+                "type": "Household",
+                "price": 30000,
+                "rating": 5,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-4.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "fridge",
+                "type": "kitchen",
+                "price": 50000,
+                "rating": 4,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-5.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "dresser",
+                "type": "furniture",
+                "price": 8000,
+                "rating": 4,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-6.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "Coombes",
+                "type": "Lounge",
+                "price": 10000,
+                "rating": 3,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-7.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "Keeve Set",
+                "type": "Table & Chairs",
+                "price": 7000,
+                "rating": 4,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-8.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "Keeve Set",
+                "type": "Table & Chairs",
+                "price": 6000,
+                "rating": 3,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product-8.jpeg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
